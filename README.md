@@ -14,4 +14,4 @@
 
 ## Unidad 2: Instalación de gestores de contenidos (CMS)
 
-[1ªParte](jekyll_github_pages.md)
+[1ªParte](unidad2/jekyll_github_pages.md)
