@@ -1,6 +1,6 @@
 # Sitio web de Implantación de aplicaciones web
 
-## tu_nombre_y_apellidos
+## José María Hernández Romero
 
 ### curso 2023/24
 
@@ -17,3 +17,10 @@
 ## Unidad 2: Instalación de gestores de contenidos (CMS)
 
 [1ªParte](unidad2/jekyll_github_pages.md)
+
+### Actividad 2.2 Creación colaborativa y despliegue de un sitio web estático en Jekyll
+
+https://github.com/Chemitaxs/juegos_de_mesa
+
+
+
